@@ -1,6 +1,6 @@
 # Static Website Deployed Using Terraform
  
- <img src="static_site.png"
+ <img src="static_site.png"/>
  
  In this repository, you'll find the files needed to provision a static website using Terraform and Amazon Web Services
  
